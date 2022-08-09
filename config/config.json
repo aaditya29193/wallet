@@ -1,0 +1,19 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "aadi",
+    "database": "sample",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false,
+    "logging": false,
+    "pool": {
+      "max": 40,
+      "min": 0
+    },
+    "retry": {
+        "max": 5
+    }
+   }
+  
+}
